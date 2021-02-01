@@ -1,4 +1,8 @@
+pynput
+reprint
 selenium
 argparse 
 datetime
 holidays
+ansicolors
+prettytable
